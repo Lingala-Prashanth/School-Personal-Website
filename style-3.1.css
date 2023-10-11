@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(90deg, lightblue, cornflowerblue);
+
+}
+
+.register{
+
+    font-family: Arial, sans-serif;
+    width: 400px;
+    padding:50px 15px;
+    color: black;
+    margin: 20px auto;
+    text-align: center;
+}
+.register h2{
+    font-size:20px;
+}
+.form-control{
+    font-size: 16px;
+    height: 25px;
+    margin: 5px;
+    outline: none;
+    border: none;
+    border-bottom: 3px solid black;
+}
+
+.register-button{
+    margin: 10px 0;
+
+    color: black;
+    font-size: 18px;
+    padding: 10px 25px;
+    border: none;
+    outline: none;
+    width: 300px;
+    box-shadow: 0 5px 10px black;
+}
+::placeholder {
+    color: black;
+}
+.fa-user-circle{
+    font-size: 40px;
+    display: block;
+    text-align: center;
+}
+

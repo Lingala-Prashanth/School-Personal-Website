@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    padding-top: 30px;
+    text-align: center;
+    font-family: Arial sans-serif;
+    font-size: 60px;
+}
+.first{
+    width: 300px;
+    display: inline-block;
+    border: none;
+    margin: 40px;
+    padding: 25px;
+}
+.first:hover{
+    transition: color;
+    box-shadow: 0 10px black;
+    color: saddlebrown;
+
+}
+div{
+    background:linear-gradient(45deg, cornflowerblue, khaki) ;
+}
+figcaption{
+    background: linear-gradient(45deg, cornflowerblue, khaki, sandybrown);
+}
+.heading{
+    padding: 10px;
+    font-size: 20px;
+}
